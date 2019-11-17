@@ -4,7 +4,6 @@ https://www.codecguide.com/download_kl_old.htm#xp_last_version
 """
 
 import sys
-import time
 from PySide2 import QtCore, QtGui, QtWidgets, QtMultimedia, QtMultimediaWidgets
 
 
